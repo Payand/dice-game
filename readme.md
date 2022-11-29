@@ -1,4 +1,4 @@
-# this is a pig game on JS
+# this is a dice game on JS
 
 # game rules
 
